@@ -6,7 +6,7 @@
 */
 
 var media = [
-    "https://soundcloud.com/aman-tejwani/td-1?si=526892339ec547c892c123cfb3c0c7fb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    "https://soundcloud.com/digitalstreams/sets/sexydeephouse?si=a8eddbffe8ec4b87a04f39300c93d742&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
  ],
   fftSize = 1024,
   // [32, 64, 128, 256, 512, 1024, 2048]
