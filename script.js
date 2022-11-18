@@ -6,7 +6,7 @@
 */
 
 var media = [
-    https://s3-us-west-2.amazonaws.com/s.cdpn.io/9473/ivan-ibarra_-_cultos-personales.ogg"
+    "https://s3-us-west-2.amazonaws.com/s.cdpn.io/9473/ivan-ibarra_-_cultos-personales.ogg"
  ],
   fftSize = 1024,
   // [32, 64, 128, 256, 512, 1024, 2048]
@@ -16,26 +16,25 @@ var media = [
   background_gradient_color_2 = "#060D1F",
   background_gradient_color_3 = "#02243F",
 
-  stars_color = "#465677",
-  stars_color_2 = "#B5BFD4",
-  stars_color_special = "#F451BA",
+  stars_color = "#EB6440",
+  stars_color_2 = "#DC3535",
+  stars_color_special = "#E97777",
   TOTAL_STARS = 1500,
   STARS_BREAK_POINT = 140,
   stars = [],
 
-  waveform_color = "rgba(29, 36, 57, 0.05)",
-  waveform_color_2 = "rgba(0,0,0,0)",
-  waveform_line_color = "rgba(157, 242, 157, 0.11)",
-  waveform_line_color_2 = "rgba(157, 242, 157, 0.8)",
+  waveform_color = "rgba(245, 4, 20, 0.05)",
+  waveform_color_2 = "rgba(245, 4, 20, 0.1)",
+  waveform_line_color = "rgba(245, 4, 20, 0.4)",
+  waveform_line_color_2 = "rgba(245, 4, 20, 0.5)",
   waveform_tick = 0.05,
   TOTAL_POINTS = fftSize / 2,
   points = [],
 
-  bubble_avg_color = "rgba(29, 36, 57, 0.1)",
-  bubble_avg_color_2 = "rgba(29, 36, 57, 0.05)",
-  bubble_avg_line_color = "rgba(77, 218, 248, 1)",
-  bubble_avg_line_color_2 = "rgba(77, 218, 248, 1)",
-  bubble_avg_tick = 0.001,
+  bubble_avg_color = "rgba(245, 4, 20, 0)",
+  bubble_avg_color_2 = "rgba(245, 4, 20, 3)",
+  bubble_avg_line_color = "rgba(245, 4, 20, 2)",
+  bubble_avg_line_color_2 = "rgba(245, 4, 20, 1)",
   TOTAL_AVG_POINTS = 64,
   AVG_BREAK_POINT = 100,
   avg_points = [],
