@@ -6,7 +6,7 @@
 */
 
 var media = [
-    "https://soundcloud.com/digitalstreams/sets/sexydeephouse?si=a8eddbffe8ec4b87a04f39300c93d742&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    https://s3-us-west-2.amazonaws.com/s.cdpn.io/9473/ivan-ibarra_-_cultos-personales.ogg"
  ],
   fftSize = 1024,
   // [32, 64, 128, 256, 512, 1024, 2048]
